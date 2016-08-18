@@ -1,0 +1,40 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+}
+header {
+  background-color: black;
+}
+ul{
+  list-style: none;
+}
+li{
+  text-align: center;
+  font-size: larger;
+  margin-top: 20px;
+}
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+nav{ 
+  background-color: #9A9A9A;
+  width: 140px;
+  height: 535px;
+  float: right;
+}
+.content{
+  display: table;
+  margin-right: 23%
+}
+.footer{
+  padding-right: 23%;
+  padding-top: 20px;
+  border-top-style: groove;
+  z-index: 10px;
+}
